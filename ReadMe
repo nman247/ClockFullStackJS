@@ -1,0 +1,6 @@
+This is a FullStack Clock Program created using Node.js and HTML(EJS Format). 
+
+It is best to install express, http, dotenv, git, nodemon and ejs
+
+This programs works by setting up over a port on a localhost of a network. Ex. Server set up on a local host of 10.0.0.47 and port 50 would have a address of 10.0.0.47::50/clock.
+To start the server, the user would need to start npm or nodemon.
